@@ -21,6 +21,8 @@ Descrição da atividades:
 .
 .
 .
+
+
 O que será utilizado no desenvolvimento
 
 - [Visual Studio Code](https://code.visualstudio.com/)  é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
@@ -34,8 +36,6 @@ yum update install
 
 ## Plugins
 
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
 
 | Plugin | README |
 | ------ | ------ |
